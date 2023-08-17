@@ -1,0 +1,20 @@
+li {
+  list-style-type: none;
+  margin-right: 60px;
+}
+.is-active {
+  background-color: #db1c48;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  padding: 6px;
+  width: 100px;
+}
+.not-active {
+  background-color: #fff;
+  border: 2px solid #db1c48;
+  color: #db1c48;
+  border-radius: 15px;
+  padding: 6px;
+  width: 100px;
+}
